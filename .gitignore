@@ -1,56 +1,23 @@
-# Node dependencies
 node_modules/
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnpm-debug.log*
+.npm/
+.yarn/
 
-# VSCode build output
-out/
-dist/
-lib/
+.vscode-test/        # Folder for VS Code test instances
+*.vsix               # Packaged extension files
+.vscode-test-web/    # Folder for VS Code web test instances
 
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log
+.vscode/*.log
+.vscode/*.code-workspace
+.vscode/*.code-workspace.template
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
 
-# OS
-.DS_Store
-Thumbs.db
-
-# VSCode local settings
-.vscode/
-.history/
-
-# Test coverage
-coverage/
-.nyc_output/
-
-# Optional: If using ESLint
-.eslintcache
-
-# Optional: If using Prettier
-.prettierignore
-
-# Optional: If using webpack
-webpack-stats.json
-
-# Build artifacts
-*.tgz
-
-# Environment variables
-.env
-.env.*.local
-
-# macOS Finder files
-.AppleDouble
-.LSOverride
-
-# Windows system files
-ehthumbs.db
-Desktop.ini
-
-# VSCode extension packaging
-*.vsix
+.DS_Store            # macOS folder metadata
+Thumbs.db            # Windows thumbnail cache
+desktop.ini          # Windows custom folder settings
