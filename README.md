@@ -14,7 +14,7 @@ For now, you can install this theme directly:
 
 ## For Best Look
 
-I'm a huge fan of ' **Monaspace Neon** '. They did a great job with this font and it looks great with this theme.
+I'm a huge fan of **Monaspace Neon**. They did a great job with this font and it looks great with this theme.
 
 ## License
 
