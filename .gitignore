@@ -1,0 +1,15 @@
+node_modules
+*.vsix
+.env
+.vscode-test/
+.vsix/
+node_modules/
+.DS_Store
+*.vsix
+.vscode/*.log
+.vscode/*.code-workspace
+.vscode/*.code-workspace.template
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
