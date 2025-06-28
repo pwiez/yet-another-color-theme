@@ -6,9 +6,9 @@ yarn-error.log
 .npm/
 .yarn/
 
-.vscode-test/        # Folder for VS Code test instances
-*.vsix               # Packaged extension files
-.vscode-test-web/    # Folder for VS Code web test instances
+.vscode-test/
+*.vsix
+.vscode-test-web/
 
 .vscode/*.log
 .vscode/*.code-workspace
@@ -18,6 +18,6 @@ yarn-error.log
 .vscode/launch.json
 .vscode/extensions.json
 
-.DS_Store            # macOS folder metadata
-Thumbs.db            # Windows thumbnail cache
-desktop.ini          # Windows custom folder settings
+.DS_Store
+Thumbs.db
+desktop.ini
