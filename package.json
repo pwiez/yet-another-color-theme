@@ -1,0 +1,31 @@
+{
+  "name": "yet-another-color-theme",
+  "displayName": "Yet Another Color Theme",
+  "description": "Vibrant colors and a nice background to go easy on the eyes. I like saturated colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/pwiez/yet-another-color-theme"
+  },
+  "publisher": "pwiez",
+  "categories": [
+    "Themes"
+  ],
+"contributes": {
+    "themes": [
+        {
+            "label": "Yet Another Color Theme",
+            "uiTheme": "vs",
+            "path": "./themes/yet-another-color-theme.json"
+        },
+        {
+            "label": "Yet Another Color Theme - Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/yet-another-color-theme-dark.json"
+        }
+    ]
+}
+}
