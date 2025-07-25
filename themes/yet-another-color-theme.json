@@ -27,7 +27,7 @@
         "terminal.ansiBrightCyan": "#00FFFF",
         "terminal.ansiBrightMagenta": "#CC00CC",
         "terminal.ansiBrightWhite": "#FFFFFF",
-        "sash.hoverBorder": "#D3E8FF",
+        "sash.hoverBorder": "#c6e1ff",
         "activityBar.background": "#FFFFFF",
         "sideBar.background": "#F8F8F8",
         "editorGroupHeader.tabsBackground": "#FFFFFF",
@@ -36,8 +36,8 @@
         "statusBar.background": "#696969",
         "panel.background": "#F8F8F8",
         "button.background": "#007bff",
-        "list.activeSelectionBackground": "#D3E8FF",
-        "list.hoverBackground": "#F0F8FF"
+        "list.activeSelectionBackground": "#007bff",
+        "list.hoverBackground": "#c6e1ff"
     },
     "tokenColors": [
         // Syntax highlighting TextMate rules
