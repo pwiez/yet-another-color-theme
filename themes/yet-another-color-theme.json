@@ -35,7 +35,7 @@
         "tab.inactiveBackground": "#FFFFFF",
         "statusBar.background": "#696969",
         "panel.background": "#F8F8F8",
-        "button.background": "#D3E8FF",
+        "button.background": "#007bff",
         "list.activeSelectionBackground": "#D3E8FF",
         "list.hoverBackground": "#F0F8FF"
     },
