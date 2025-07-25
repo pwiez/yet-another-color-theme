@@ -2,7 +2,7 @@
   "name": "yet-another-color-theme",
   "displayName": "Yet Another Color Theme",
   "description": "Vibrant colors and a nice background to go easy on the eyes. I like saturated colors.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.100.0"
   },
